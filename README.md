@@ -1,6 +1,6 @@
 # MacroPreciso
 
-A Windows app to record and play back keyboard and mouse macros with precise timing, built with Roblox in mind. A single `.exe` file, no installer.
+A Windows app to record and play back keyboard and mouse macros with precise timing, built with Roblox in mind. A single `.exe` file, no installer (about 1.3 MB: it includes the Microsoft WebView2 files used to sign in to Roblox accounts).
 
 **[⬇ Download the latest version](https://github.com/iTsJotaxx/MacroPreciso/releases/latest)** (`MacroPreciso.exe`)
 
@@ -11,6 +11,9 @@ A Windows app to record and play back keyboard and mouse macros with precise tim
 - **Saved macros** with their own hotkey, so you can trigger them from anywhere.
 - **Autoclicker** and **Detector**.
 - Opens `.mcp` recordings and TinyTask `.rec` files, and can create an `.exe` with a macro built in.
+- **Multi Roblox panel**: open several Roblox accounts at once, each in its own cell of a grid inside MacroPreciso (also on a second monitor), with full screen for one account, reconnect and a double-click disconnect button per account.
+- **A different game per account**: each account can join its own game, chosen from a list or by browsing the Roblox website inside the app.
+- **Performance mode** for many accounts: caps the FPS of the accounts in the background (adjustable in Settings), lowers Roblox graphics while accounts open, and frees memory of background accounts.
 - Languages: Spanish, English and French.
 
 ## How to use it
